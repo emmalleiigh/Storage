@@ -1,0 +1,12 @@
+  Available:	98.3 MB (98,271,232 bytes)
+  Capacity:	102.4 MB (102,400,000 bytes)
+  Mount Point:	/Volumes/Installer
+  File System:	HFS+
+  Writable:	No
+  Ignore Ownership:	Yes
+  BSD Name:	disk2s2
+  Volume UUID:	94E57186-B2BF-3538-944C-0738A2F5F651
+  Physical Drive:
+  Media Name:	Apple UDIF read-only compressed (zlib) Media
+ Available:	330.57 GB (330,568,888,320 bytes)  
+
